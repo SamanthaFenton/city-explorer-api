@@ -28,7 +28,7 @@ Tech Educators Support Team Various websites to be entered and listed as being u
 
 ## Time Estimates
 
-1. Name of Feature: Set up the server repository
+**Name of Feature: Set up the server repository**
 
 Estimated time needed to complete: 20mins
 
@@ -38,7 +38,7 @@ Finish time: 14.57
 
 Actual time needed to complete: 42mins
 
-2. Name of Feature: Set up a weather placeholder for the city explorer search app
+**Name of Feature: Set up a weather placeholder for the city explorer search app**
 
 Estimated time needed to complete: 2hrs
 
